@@ -1,0 +1,14 @@
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\DivCluster\bin\Debug\DivCluster.exe.config
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\DivCluster\bin\Debug\DivCluster.exe
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\DivCluster\bin\Debug\DivCluster.pdb
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\DivCluster\obj\Debug\DivCluster.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\DivCluster\obj\Debug\DivCluster.DivCluster.resources
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\DivCluster\obj\Debug\DivCluster.csproj.GenerateResource.Cache
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\DivCluster\obj\Debug\DivCluster.exe
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\DivCluster\obj\Debug\DivCluster.pdb
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\DivCluster\bin\Debug\DivCluster.exe.config
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\DivCluster\bin\Debug\DivCluster.exe
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\DivCluster\bin\Debug\DivCluster.pdb
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\DivCluster\obj\Debug\DivCluster.exe
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\DivCluster\obj\Debug\DivCluster.pdb
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\DivCluster\obj\Debug\DivCluster.csprojResolveAssemblyReference.cache

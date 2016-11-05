@@ -1,0 +1,28 @@
+C:\Users\Paulo\Desktop\DivCluster00\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Paulo\Desktop\DivCluster00\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Paulo\Desktop\DivCluster00\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\WindowsFormsApplication1\bin\Debug\DivCluster.exe
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\WindowsFormsApplication1\bin\Debug\DivCluster.pdb
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Paulo\Desktop\Nova pasta\DivCluster00\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\bin\Debug\DivCluster.exe
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\bin\Debug\DivCluster.pdb
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GraficoGrupos.resources
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
