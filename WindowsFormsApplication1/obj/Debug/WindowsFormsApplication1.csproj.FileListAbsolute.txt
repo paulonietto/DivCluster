@@ -26,3 +26,6 @@ C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsAppl
 C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Paulo\Documents\Visual Studio 2015\Projects\DivCluster\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\gdmoura\Documents\GitHub\DivCluster\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\gdmoura\Documents\GitHub\DivCluster\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\gdmoura\Documents\GitHub\DivCluster\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
