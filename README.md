@@ -1,3 +1,3 @@
 # DivCluster
 Sistema DivCluster
-Manual at http://www.cc.faccamp.br/Dissertacoes/PauloRogerioNietto.pdf
+Manual disponível em http://www.cc.faccamp.br/Dissertacoes/PauloRogerioNietto.pdf
